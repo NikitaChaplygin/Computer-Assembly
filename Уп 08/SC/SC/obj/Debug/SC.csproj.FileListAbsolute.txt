@@ -1,0 +1,16 @@
+Z:\!Обмен\УП 01.01\отчеты\Чаплыгин\Уп 08\SC\SC\bin\Debug\Microsoft Access База данных.accdb
+Z:\!Обмен\УП 01.01\отчеты\Чаплыгин\Уп 08\SC\SC\bin\Debug\SC.exe.config
+Z:\!Обмен\УП 01.01\отчеты\Чаплыгин\Уп 08\SC\SC\bin\Debug\SC.exe
+Z:\!Обмен\УП 01.01\отчеты\Чаплыгин\Уп 08\SC\SC\bin\Debug\SC.pdb
+Z:\!Обмен\УП 01.01\отчеты\Чаплыгин\Уп 08\SC\SC\obj\Debug\SC.csprojAssemblyReference.cache
+Z:\!Обмен\УП 01.01\отчеты\Чаплыгин\Уп 08\SC\SC\obj\Debug\SC.Enter.resources
+Z:\!Обмен\УП 01.01\отчеты\Чаплыгин\Уп 08\SC\SC\obj\Debug\SC.Properties.Resources.resources
+Z:\!Обмен\УП 01.01\отчеты\Чаплыгин\Уп 08\SC\SC\obj\Debug\SC.csproj.GenerateResource.cache
+Z:\!Обмен\УП 01.01\отчеты\Чаплыгин\Уп 08\SC\SC\obj\Debug\SC.csproj.CoreCompileInputs.cache
+Z:\!Обмен\УП 01.01\отчеты\Чаплыгин\Уп 08\SC\SC\obj\Debug\SC.exe
+Z:\!Обмен\УП 01.01\отчеты\Чаплыгин\Уп 08\SC\SC\obj\Debug\SC.pdb
+Z:\!Обмен\УП 01.01\отчеты\Чаплыгин\Уп 08\SC\SC\obj\Debug\SC.Clients.resources
+Z:\!Обмен\УП 01.01\отчеты\Чаплыгин\Уп 08\SC\SC\obj\Debug\SC.Components.resources
+Z:\!Обмен\УП 01.01\отчеты\Чаплыгин\Уп 08\SC\SC\obj\Debug\SC.Main.resources
+Z:\!Обмен\УП 01.01\отчеты\Чаплыгин\Уп 08\SC\SC\obj\Debug\SC.Orders.resources
+Z:\!Обмен\УП 01.01\отчеты\Чаплыгин\Уп 08\SC\SC\obj\Debug\SC.Pk.resources
